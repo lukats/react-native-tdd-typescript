@@ -1,0 +1,8 @@
+{
+    "preset": "ts-jest",
+    "testEnvironment": "node",
+    "testRegex": "\\.e2e\\.test\\.(js|ts)$",
+    "reporters": ["detox/runners/jest/streamlineReporter"],
+    "setupFilesAfterEnv": ["./init.ts"],
+    "verbose": true
+}
