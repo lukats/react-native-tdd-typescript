@@ -36,7 +36,7 @@ npx react-native run-android
 
 ##
 
-### test commands
+### e2e test commands
 
 #### for ios
 
